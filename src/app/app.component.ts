@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'medlab';
   displaydata()
   {
-    
+      console.log("akshay")
   }
 }
